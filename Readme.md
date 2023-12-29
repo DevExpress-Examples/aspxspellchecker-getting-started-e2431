@@ -10,9 +10,6 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxSpellChecker - Getting Started
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2431/)**
-<!-- run online end -->
 
 
 <p>This tutorial demonstrates how to use the <a href="http://help.devexpress.com/#AspNet/clsDevExpressWebASPxSpellCheckerASPxSpellCheckertopic">ASPxSpellChecker</a> component to create a simple web application with the spell-checker functionality. It can be useful for you in solving this task if you are a first-time user of ASPxSpellChecker.</p>
