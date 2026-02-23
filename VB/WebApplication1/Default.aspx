@@ -1,7 +1,7 @@
 <%@ Page Language="VB" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="WebApplication1.Default" %>
 
-<%@ Register assembly="DevExpress.Web.ASPxSpellChecker.v24.2, Version=24.2.13.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxSpellChecker" tagprefix="dx" %>
-<%@ Register assembly="DevExpress.Web.v24.2, Version=24.2.13.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
+<%@ Register assembly="DevExpress.Web.ASPxSpellChecker.v24.2, Version=24.2.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxSpellChecker" tagprefix="dx" %>
+<%@ Register assembly="DevExpress.Web.v24.2, Version=24.2.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
 
 <!DOCTYPE html>
 
